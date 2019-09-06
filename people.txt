@@ -1,0 +1,16 @@
+Christian,26,coachella,hiking,beach,dogs,basketball,baseball,SDSU,pho,Yorba Linda
+Adrienne,23,programming,traveling,yoga,dancing,coachella,greek life,Chapman,avocado toast,San Francisco
+Natalie,25,beach,backpacking,reddit,dogs,traveling,greeklife,Chapman,pho,Yorba Linda
+Abby,21,programming backpacking,the river,greeklife,Chapman,pizza,Seattle
+Amy,22 painting,design,the river,lacrosse,greeklife,NAU,candy,Seattle
+Ashley,22,the river,greek life,lacrosse,traveling,yoga,NAU,pizza,Seattle
+Jordan,21,programming,hiking,beach,baseball,rock climbing,greeklife,UCI,spaghetti,Pleasanton
+Fred,65,shuffle board,bee keeping,ping pong,darts,USC,applesauce,Malibu
+Bill,73,bird watching,astronomy,darts,cards,UCLA,bingo,pudding,Orange
+Sally,45,knitting,antiquing,ping pong,cards,yoga,bingo,CSUF,pie,Orange
+Erik,42,programming,jack daniels,research,food,tacos,Stanford,Lakewood
+David,20,Chapman,crazy,health addict,supplements,fortnite hater
+Aaron,18,Chapman,beach,reddit,android,dogs
+Mark,19,Chapman,rotc,supplemets,working out,runner
+Daniel,18,SMC,never leaving home,fortnite,skinny
+Choochoo,7,dog,Lhasa Apso,always cold,cuddle
